@@ -1,0 +1,4 @@
+error.log
+*.log
+new/
+*.js
