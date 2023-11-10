@@ -1,0 +1,1 @@
+hello world, learning git is very easy and can be used with any kind of projects.
