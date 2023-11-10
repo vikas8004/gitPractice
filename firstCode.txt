@@ -1,1 +1,2 @@
-hello world, learning git is very easy and can be used with any kind of projects.
+hello world, learning git is very easy and can be used with any kind of projects.   
+plz add a chat option in your app
